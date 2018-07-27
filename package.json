@@ -2,7 +2,7 @@
     "name": "bamboo-vscode",
     "displayName": "bamboo-vscode",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "garyxuehong",
     "repository": "https://github.com/garyxuehong/bamboo-vscode",
     "engines": {
