@@ -1,0 +1,340 @@
+{
+    "size": 120,
+    "searchResults": [
+        {
+            "id": "DC-INTTRS",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-INTTRS",
+                "key": "DC-INTTRS",
+                "projectName": "DC Network",
+                "planName": "Integration TRS",
+                "branchName": "trunk",
+                "description": "Integration TRS",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "DC-INTTRSBG",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-INTTRSBG",
+                "key": "DC-INTTRSBG",
+                "projectName": "DC Network",
+                "planName": "Integration TRS Buying Guide",
+                "branchName": "trunk",
+                "description": "Integration TRS Buying Guide",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "DC-INTEAR",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-INTEAR",
+                "key": "DC-INTEAR",
+                "projectName": "DC Network",
+                "planName": "Integration TRS EAR",
+                "branchName": "trunk",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "DC-TRSEDIEAR",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-TRSEDIEAR",
+                "key": "DC-TRSEDIEAR",
+                "projectName": "DC Network",
+                "planName": "Integration TRS EDI EAR",
+                "branchName": "trunk",
+                "description": "Integration TRS EDI EAR",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "DC-TRSEDIEJB",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-TRSEDIEJB",
+                "key": "DC-TRSEDIEJB",
+                "projectName": "DC Network",
+                "planName": "Integration TRS EDI EJB",
+                "branchName": "trunk",
+                "description": "Integration TRS EDI EJB",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "DC-INTTRSEJB",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-INTTRSEJB",
+                "key": "DC-INTTRSEJB",
+                "projectName": "DC Network",
+                "planName": "Integration TRS EJB",
+                "branchName": "trunk",
+                "description": "Integration TRS EJB",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "DC-INTTRSPM",
+            "type": "chain",
+            "searchEntity": {
+                "id": "DC-INTTRSPM",
+                "key": "DC-INTTRSPM",
+                "projectName": "DC Network",
+                "planName": "Integration TRS Product Master",
+                "branchName": "trunk",
+                "description": "Integration TRS Product Master",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "FIN-FTSE",
+            "type": "chain",
+            "searchEntity": {
+                "id": "FIN-FTSE",
+                "key": "FIN-FTSE",
+                "projectName": "Finance",
+                "planName": "Finance TRS Services (ESB)",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "FIN-FTSOE",
+            "type": "chain",
+            "searchEntity": {
+                "id": "FIN-FTSOE",
+                "key": "FIN-FTSOE",
+                "projectName": "Finance",
+                "planName": "Finance TRS Services Orchestration (ESB)",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "KHC-TNK8SMAST",
+            "type": "chain",
+            "searchEntity": {
+                "id": "KHC-TNK8SMAST",
+                "key": "KHC-TNK8SMAST",
+                "projectName": "Kubernetes Helm Configuration",
+                "planName": "TRS Namespace Helm Configuration (master - k8s)",
+                "branchName": "master",
+                "description":
+                    "Build and Push configuration helm charts to Artifactory",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MABE-TOMFUSD",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MABE-TOMFUSD",
+                "key": "MABE-TOMFUSD",
+                "projectName": "Mobile Application Back-end",
+                "planName":
+                    "TRS Online Mobile Flexitrak UI Service V2 - Development",
+                "branchName": "development",
+                "description":
+                    "TRS Online Mobile Flexitrak UI Service - Development",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MABE-TOMFUSVM",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MABE-TOMFUSVM",
+                "key": "MABE-TOMFUSVM",
+                "projectName": "Mobile Application Back-end",
+                "planName":
+                    "TRS Online Mobile Flexitrak UI Service V2 - Master",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MABE-TOMNSV",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MABE-TOMNSV",
+                "key": "MABE-TOMNSV",
+                "projectName": "Mobile Application Back-end",
+                "planName":
+                    "TRS Online Mobile Notification Service V2 (development)",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MABE-TOMNSVM",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MABE-TOMNSVM",
+                "key": "MABE-TOMNSVM",
+                "projectName": "Mobile Application Back-end",
+                "planName":
+                    "TRS Online Mobile Notification Service V2 (master)",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MABE-TOMUSD",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MABE-TOMUSD",
+                "key": "MABE-TOMUSD",
+                "projectName": "Mobile Application Back-end",
+                "planName": "TRS Online Mobile UI Service - Development",
+                "branchName": "development",
+                "description": "TRS Online Mobile UI Service - Development",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MABE-TOMUSM",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MABE-TOMUSM",
+                "key": "MABE-TOMUSM",
+                "projectName": "Mobile Application Back-end",
+                "planName": "TRS Online Mobile UI Service - Master",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "RWS-FRWTBB",
+            "type": "chain",
+            "searchEntity": {
+                "id": "RWS-FRWTBB",
+                "key": "RWS-FRWTBB",
+                "projectName": "Reece Website",
+                "planName":
+                    "Frontend - Reece Website - Test Branch Build  (trs-online-reece-website-frontend)",
+                "branchName": "test",
+                "description":
+                    "This is a build for the Reece website test branch living on the Reece Stash Repository",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "TOI-TOISSD",
+            "type": "chain",
+            "searchEntity": {
+                "id": "TOI-TOISSD",
+                "key": "TOI-TOISSD",
+                "projectName": "Trade Online - Invoices",
+                "planName": "TRS Online Invoice Shared Service - Development",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "TOI-TOISSM",
+            "type": "chain",
+            "searchEntity": {
+                "id": "TOI-TOISSM",
+                "key": "TOI-TOISSM",
+                "projectName": "Trade Online - Invoices",
+                "planName": "TRS Online Invoice Shared Service - Master",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MYACCOUNT-TOSCR",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MYACCOUNT-TOSCR",
+                "key": "MYACCOUNT-TOSCR",
+                "projectName": "Trade Online - maX Legacy",
+                "planName": "TRS Online service common - Release",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MYACCOUNT-TOTLTOF",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MYACCOUNT-TOTLTOF",
+                "key": "MYACCOUNT-TOTLTOF",
+                "projectName": "Trade Online - maX Legacy",
+                "planName": "TRS Online Toolsale 16 Frontend (Development)",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "MYACCOUNT-TOT2M",
+            "type": "chain",
+            "searchEntity": {
+                "id": "MYACCOUNT-TOT2M",
+                "key": "MYACCOUNT-TOT2M",
+                "projectName": "Trade Online - maX Legacy",
+                "planName": "TRS Online Toolsale 2016 (master)",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "TON-TONSD",
+            "type": "chain",
+            "searchEntity": {
+                "id": "TON-TONSD",
+                "key": "TON-TONSD",
+                "projectName": "TRS Online - NPS",
+                "planName": "TRS Online Nps Service - (Development)",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "TON-TONSM",
+            "type": "chain",
+            "searchEntity": {
+                "id": "TON-TONSM",
+                "key": "TON-TONSM",
+                "projectName": "TRS Online - NPS",
+                "planName": "TRS Online Nps Service - (Master)",
+                "branchName": "master",
+                "description": "",
+                "type": "chain"
+            }
+        },
+        {
+            "id": "RWI-RWID",
+            "type": "chain",
+            "searchEntity": {
+                "id": "RWI-RWID",
+                "key": "RWI-RWID",
+                "projectName": "TRS Online - Reece Website Integration",
+                "planName": "Reece Website Integration - Domain (dev)",
+                "branchName": "development",
+                "description": "",
+                "type": "chain"
+            }
+        }
+    ],
+    "start-index": 0,
+    "max-result": 25
+}

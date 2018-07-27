@@ -11,16 +11,27 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.sayHello"
+        "onCommand:bamboo.listBuildPlans"
     ],
-    "main": "./out/extension",
+    "main": "./out/bamboo",
     "contributes": {
         "commands": [
             {
-                "command": "extension.sayHello",
-                "title": "Hello World"
+                "command": "bamboo.listBuildPlans",
+                "title": "Bamboo: List all build plans"
             }
-        ]
+        ],
+        "configuration": {
+            "type": "object",
+            "title": "Bamboo configuration",
+            "properties": {
+                "bamboo.server.uri": {
+                    "type": "string",
+                    "default": "",
+                    "description": "Url to bamboo server, e.g. https://some.domain.com/bamboo"
+                }
+            }
+        }
     },
     "scripts": {
         "vscode:prepublish": "npm run compile",
@@ -30,10 +41,14 @@
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
     "devDependencies": {
-        "typescript": "^2.6.1",
-        "vscode": "^1.1.6",
-        "tslint": "^5.8.0",
+        "@types/mocha": "^2.2.42",
         "@types/node": "^7.0.43",
-        "@types/mocha": "^2.2.42"
+        "node-fetch": "^2.2.0",
+        "tslint": "^5.8.0",
+        "typescript": "^2.6.1",
+        "vscode": "^1.1.6"
+    },
+    "dependencies": {
+        "@types/node-fetch": "^2.1.2"
     }
 }
