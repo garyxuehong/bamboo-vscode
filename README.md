@@ -1,6 +1,6 @@
-# bamboo-vscode README
+# bamboo-vscode
 
-Open build plans from bamboo server
+Open build plans in browser from bamboo server
 
 ## Features
 
@@ -10,7 +10,9 @@ Open build plans from bamboo server
 
 ## Extension Settings
 
-* `bamboo.server.uri`: set bamboo server uri
+* `bamboo.server.uri`: set bamboo server uri, like 
+
+  "bamboo.server.uri": "https://some.domain.net/bamboo"
 
 ## Known Issues
 

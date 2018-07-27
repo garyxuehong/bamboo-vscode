@@ -2,8 +2,9 @@
     "name": "bamboo-vscode",
     "displayName": "Bamboo Helper",
     "icon": "images/icon.png",
+    "license": "MIT",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "garyxuehong",
     "repository": "https://github.com/garyxuehong/bamboo-vscode",
     "engines": {
@@ -20,8 +21,7 @@
         "commands": [
             {
                 "command": "bamboo.listBuildPlans",
-                "title": "Bamboo: List all build plans",
-                "category": "CI"
+                "title": "Bamboo: List all build plans"
             }
         ],
         "configuration": {
