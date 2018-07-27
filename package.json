@@ -4,6 +4,7 @@
     "description": "",
     "version": "0.0.1",
     "publisher": "garyxuehong",
+    "repository": "https://github.com/garyxuehong/bamboo-vscode",
     "engines": {
         "vscode": "^1.25.0"
     },
