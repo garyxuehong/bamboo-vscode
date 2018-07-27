@@ -19,7 +19,8 @@
         "commands": [
             {
                 "command": "bamboo.listBuildPlans",
-                "title": "Bamboo: List all build plans"
+                "title": "Bamboo: List all build plans",
+                "category": "CI"
             }
         ],
         "configuration": {
