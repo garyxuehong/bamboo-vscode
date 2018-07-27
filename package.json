@@ -1,6 +1,7 @@
 {
     "name": "bamboo-vscode",
-    "displayName": "bamboo-vscode",
+    "displayName": "Bamboo Helper",
+    "icon": "images/icon.png",
     "description": "",
     "version": "0.0.2",
     "publisher": "garyxuehong",
